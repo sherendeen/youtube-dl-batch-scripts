@@ -5,4 +5,4 @@ These are my custom Windows batch scripts for use with youtube-dl. These scripts
 * ffprobe.exe
 * youtube-dl.exe
 
-Note that this project is NOT affiliated with YouTube-dl or ffmpeg projects. The work that is licensed here as MIT are my entirely optional batch files you see here.
+Note that this project is NOT affiliated with YouTube-dl or ffmpeg projects. These scripts are Public Domain.
