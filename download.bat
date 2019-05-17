@@ -1,4 +1,8 @@
 @echo off
+
+REM This script is in the public domain
+REM Originally by Seth G. R. Herendeen
+
 :start
 echo Input link representing video to be downloaded
 set /p video=:
