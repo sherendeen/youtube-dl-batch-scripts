@@ -36,13 +36,14 @@ goto eof
 
 
 :multidownload
-cls
-echo Download again?
-set /p response=:
-if %response%==no goto initial 
-if %response%==n goto initial
-if %response%==y goto download
-if %response%==yes goto download
+goto download
+REM cls
+REM echo Download again?
+REM set /p response=:
+rem if %response%==no goto initial 
+rem if %response%==n goto initial
+rem if %response%==y goto download
+rem if %response%==yes goto download
 REM fallthrough to :download_no_convert
 
 
